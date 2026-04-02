@@ -1,4 +1,4 @@
-# How-LLM-actually-Works-
+# How Tokenization actually Works
 “An educational resource explaining tokenization and how Large Language Models (LLMs) process and understand text.”
 
 ## What You Will Learn
